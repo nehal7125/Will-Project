@@ -1,7 +1,7 @@
 // PO Admin Dashboard
 
 import React, { useState, useEffect } from 'react';
-import { Button, Card } from '../components/ui';
+import {  Card } from '../components/ui';
 import { MainLayout } from '../components/Layout';
 import { getAdminWills } from '../utils/db';
 import { useNavigate } from 'react-router-dom';
