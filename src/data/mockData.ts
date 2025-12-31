@@ -13,7 +13,7 @@ export const mockUsers: User[] = [
   },
   {
     id: 'user-2',
-    username: 'user@example.com',
+    username: 'user@will.com',
     password: 'user123',
     role: 'WA',
     aadhaar: '987654321098',
